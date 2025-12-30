@@ -1,1 +1,1 @@
-echo "Git basics practice"
+echo "Git all basics practice"
